@@ -1,5 +1,4 @@
 package com.napier.sem;
-
 import com.mongodb.MongoClient;
 import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.MongoCollection;
